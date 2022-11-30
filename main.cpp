@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    printf("shalom");
+    printf("shalom olam");
     return 0;
 }
